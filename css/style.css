@@ -50,14 +50,14 @@
 
 #main-nav {
     flex-basis: 30%;
-    background-color: pink;
+    background-color: rgb(0, 183, 255);
     min-height: 245px;
     border-style: dashed;
 }
 
 main {
     flex-basis: 20%;
-    background-color: rgb(0, 183, 255);
+    background-color: pink;
     min-height: 245px;
     border-style: dashed;
 }
@@ -75,16 +75,16 @@ main {
 }
 
 #secondary-nav {
-    flex-basis: 30%;
-    background-color: rgb(0, 183, 255);
-    min-height: 250px;
+    flex-basis: 20%;
+    background-color: pink;
+    min-height: 245px;
     border-style: dashed;
 }
 
 #secondary-main {
-    flex-basis: 20%;
-    background-color: pink;
-    min-height: 250px;
+    flex-basis: 30%;
+    background-color: rgb(0, 183, 255);
+    min-height: 245px;
     border-style: dashed;
 }
 
