@@ -21,7 +21,7 @@
     padding: 5px;   
 }
 
-.flex-container1 {
+.flex-container-blu {
     display: flex;
     background-color: rgb(15, 48, 238);
     height: 400px;
@@ -29,7 +29,7 @@
     align-items: center;
 }
 
-.flex-container1 > div {
+.flex-container-blu > div {
     background-color: #e58df7da;
     width: 950px;
     height: 300px;
@@ -62,7 +62,7 @@ main {
     border-style: dashed;
 }
 
-.container1 {
+.container-grigio {
     display: flex;
     justify-content:center;
     align-items: center;
@@ -88,7 +88,7 @@ main {
     border-style: dashed;
 }
 
-.flex-container2 {
+.flex-container-grigio {
     display: flex;
     background-color: rgb(193, 195, 196);
     height: 800px;
@@ -96,14 +96,14 @@ main {
     align-items: center;
 }
 
-.flex-container2 > div {
+.flex-container-grigio > div {
     background-color: #069636da;
     width: 60%;
     height: 94%;
     border-style: dashed; 
 }
 
-.container2 {
+.container-nero {
     display: flex;
     justify-content: center;
     align-items:center;
@@ -114,40 +114,20 @@ main {
     margin-bottom: 1px;
 }
 
-#third-nav {
+.nav-finale {
     flex-basis: 20%;
     background-color: rgb(228, 130, 180);
     min-height: 550px;
     border-style: dashed;
 }
 
-#fourth-nav {
+.nav-finale-verde {
     flex-basis: 13%;
     background-color: rgb(57, 170, 151);
     min-height: 550px;
     border-style: dashed; color: aliceblue;
 }
 
-#fifth-nav {
-    flex-basis: 13%;
-    background-color: rgb(57, 170, 151);
-    min-height: 550px;
-    border-style: dashed; color: aliceblue;
-}
-
-#sixth-nav {
-    flex-basis: 13%;
-    background-color: rgb(57, 170, 151);
-    min-height: 550px;
-    border-style: dashed; color: aliceblue;
-}
-
-#seventh-nav {
-    flex-basis: 13%;
-    background-color: rgb(57, 170, 151);
-    min-height: 550px;
-    border-style: dashed; color: aliceblue;
-}
 
 .flex-container3 {
     display: flex;
